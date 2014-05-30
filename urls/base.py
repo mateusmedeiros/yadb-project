@@ -13,18 +13,18 @@ urlpatterns += patterns('',
 
 
 
-### views_folder_one ###
+### views_category_one ###
 
-# urlpatterns += patterns('app_name.views.views_folder_one',
+# urlpatterns += patterns('app_name.views.views_category_one',
 
     # url(r'^modela/$', 'list', name='ListModelA'),
     # url(r'^modela/add/?$', 'add', name='AddModelA'),
 # )
 
 
-### views_folder_two ###
+### views_category_two ###
 
-# urlpatterns += patterns('app_name.views.views_folder_two',
+# urlpatterns += patterns('app_name.views.views_category_two',
 
     # url(r'^modelb/', 'list', name='ListModelB'),
     # url(r'^modelb/add/', 'add', name='AddModelB'),
